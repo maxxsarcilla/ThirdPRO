@@ -1,0 +1,14 @@
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\bin\Debug\net8.0\ThirdPRO.exe
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\bin\Debug\net8.0\ThirdPRO.deps.json
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\bin\Debug\net8.0\ThirdPRO.runtimeconfig.json
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\bin\Debug\net8.0\ThirdPRO.dll
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\bin\Debug\net8.0\ThirdPRO.pdb
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.AssemblyInfoInputs.cache
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.AssemblyInfo.cs
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.csproj.CoreCompileInputs.cache
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.dll
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\refint\ThirdPRO.dll
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.pdb
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ThirdPRO.genruntimeconfig.cache
+C:\Users\nicole\OneDrive\Documents\ThirdPRO\ThirdPRO\obj\Debug\net8.0\ref\ThirdPRO.dll
